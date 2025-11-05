@@ -1,0 +1,12 @@
+body{background:#f5f7fb;color:#1f2937}
+.navbar-brand{font-weight:700;letter-spacing:.2px}
+.card{border:0;border-radius:.6rem;box-shadow:0 0.25rem 0.75rem rgba(0,0,0,.06)}
+.card-hover:hover{transform:translateY(-2px);box-shadow:0 .75rem 1.25rem rgba(0,0,0,.12)}
+.btn-primary{background:#0d6efd;border-color:#0d6efd}
+.btn-outline-primary{border-color:#0d6efd;color:#0d6efd}
+.btn-outline-primary:hover{background:#0d6efd;color:#fff}
+.table> :not(caption)>*>*{vertical-align:middle}
+.table thead th{font-weight:600}
+.form-control:is(:focus){box-shadow:0 0 0 .2rem rgba(13,110,253,.15)}
+footer{border-top:1px solid #e9ecef}
+.min-vh-75{min-height:75vh}
